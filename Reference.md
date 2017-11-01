@@ -1,0 +1,4 @@
+- websites
+	- [codekata.com](http://codekata.com/)
+	- [codekatas.org](http://www.codekatas.org/)
+	- [codewars.com](https://www.codewars.com/)
